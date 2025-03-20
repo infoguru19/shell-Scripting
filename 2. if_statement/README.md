@@ -12,6 +12,18 @@ Example:
     Exit Staus: 
         0: True
         1: False
+
+Summary
+==================
+if [ Condition is true ]
+then
+    commands
+elif [ Condition is true ]
+then
+    commands
+else
+    commands
+fi
  
 Some Common Example
 ======================
@@ -22,6 +34,13 @@ Some Common Example
 -s FILE: True if file is exit and not a empty
 -x FILE: True if file is executable by you
 -w FILE: True if file is writable by you
+
+-z STRING: True if string is Empty
+-n STRING: True if string is NOT Empty
+STRING1=STRING2: True if strings are SAME
+STRING1!=STRING2: True if strings are NOT SAME
+
+
 
 
 

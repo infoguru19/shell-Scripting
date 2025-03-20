@@ -10,3 +10,10 @@ Invalid Variable name
 1. 3LETTER="ABC"
 2. first-three-letter="ABC"
 3. first@three@letter="ABC"
+
+Summary
+============================
+VARIABLE_NAME="value"
+$VARIABLE_NAME
+${VARIABLE_NAME}
+VARIABLE_NAME=$(command)  # Output of an command to Assign
