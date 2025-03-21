@@ -10,7 +10,8 @@ script.sh
 --------------
 
  #!/bin/bash
- echo " #! ==> "Sharp bang" ==> "The term shebang" ; /bin/bsh ==> Interpreter"
+ 1. echo " #! => "Sharp bang" => "The term shebang"
+ 2.  /bin/bsh => Interpreter"
 -------------------------
 
 chmod 755 script.sh
