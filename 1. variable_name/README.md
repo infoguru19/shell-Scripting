@@ -1,6 +1,10 @@
 Variable
 ============
-
+By Default scope of a variable is GLOBAL. 
+    FIRST_NAME="Ravi" 
+We have define Local variable as below.
+    local LAST_NAME: "Ranjan"
+    
 Valid Variable name
 1. FIRST3LETTER="ABC"
 2. FIRST_THREE_LETTER="ABC"
