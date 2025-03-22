@@ -40,6 +40,16 @@ Some Common Example
 STRING1=STRING2: True if strings are SAME
 STRING1!=STRING2: True if strings are NOT SAME
 
+Arithmetic Operator
+====================
+
+1. ADD=$(($NUMBER1 + $NUMBER2))
+2. SUB=$(($NUMBER1 - $NUMBER2))
+3. MUL=$(($NUMBER1 * $NUMBER2))
+4. DIV=$(($NUMBER1 / $NUMBER2))
+5. MOD=$(($NUMBER1 % $NUMBER2))
+
+
 
 
 
