@@ -11,7 +11,7 @@ A wildcard is a character or string used for pattern matching. Two wildcards *, 
 
  In this script, *.txt will match all files with the .txt extension in the current directory.
 
-2. ? : Matches exactly one characters.
+2. "?" : Matches exactly one characters.
    ls ?: Return one character named file
    ls ??: Return two character named file
    
