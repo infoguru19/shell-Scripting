@@ -1,7 +1,7 @@
 # Wildcards
 
 A wildcard is a character or string used for pattern matching. Two wildcards *, ? and []
-1. * : Matches 0 or more characters.
+1. "*" : Matches 0 or more characters.
 
     #!/bin/bash
     # List all .txt files in the current directory
