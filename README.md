@@ -8,8 +8,9 @@
 
 script.sh
 
-``` #!/bin/bash 
- echo " #!  "Sharp bang"" # "The term shebang"
+```
+#!/bin/bash 
+echo " #!  "Sharp bang"" # "The term shebang"
 ```
 
 - /bin/bash => Interpreter"
