@@ -4,16 +4,16 @@
 2. Shell script is to automate repeated tasks.
 3. Anything we can write in command that we can put it into script.
 
-First Script
-================
+## First Script
+
 script.sh
---------------
 
- #!/bin/bash
- 1. echo " #! => "Sharp bang" => "The term shebang"
- 2.  /bin/bsh => Interpreter"
--------------------------
+``` #!/bin/bash 
+ echo " #!  "Sharp bang"" # "The term shebang"
+```
+- /bin/bsh => Interpreter"
 
-chmod 755 script.sh
-./script.sh
+
+**- chmod 755 script.sh
+- ./script.sh**
 
