@@ -11,9 +11,8 @@ script.sh
 ``` #!/bin/bash 
  echo " #!  "Sharp bang"" # "The term shebang"
 ```
-- /bin/bsh => Interpreter"
 
-
-**- chmod 755 script.sh
+- /bin/bash => Interpreter"
+- chmod 755 script.sh
 - ./script.sh**
 
