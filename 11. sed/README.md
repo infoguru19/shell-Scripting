@@ -14,6 +14,8 @@ Replace all occurrences of "apple" with "banana" in a file called fruits.txt:
 To make the changes directly in the file, use the -i option:
 
 ``` sed -i 's/apple/banana/g' fruits.txt```
+``` sed -i '' 's/apple/banana/g' fruits.txt ```
+
 
 2. Replacing Text on Specific Lines
 Replace "apple" with "banana" only on the 3rd line of fruits.txt:
