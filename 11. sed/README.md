@@ -55,3 +55,5 @@ Replace only the first occurrence of "apple" with "banana" on each line:
 9. Replacing the Last Occurrence
 Replace the last occurrence of "apple" with "banana" on each line:
 
+```sed 's/\(.*\)apple/\1banana/g' fruits.txt```
+
