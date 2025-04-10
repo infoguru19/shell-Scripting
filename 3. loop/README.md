@@ -39,4 +39,12 @@ It need if we want to run some service or daemon .
      sleep 1
     done
 
+# Break.
+![image](https://github.com/user-attachments/assets/c46239e4-8672-4078-a45f-9d2744c4c61b)
+
+# Continue
+![image](https://github.com/user-attachments/assets/9334d46a-240e-4b8d-a0e8-39fbe110ec7e)
+
+
+
 
