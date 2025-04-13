@@ -2,34 +2,25 @@
 
 1. User-defined Variables
 These are variables created by the user in a script or terminal.
-
 Example:
-
-    ```bash
-    Copy
-    Edit
-    name="John"
-    age=25```
+```
+   name="John"
+   age=25
+```
 2. Environment Variables
 These are system-wide variables available to all processes.
-
 Usually in uppercase by convention.
 
 Example:
-
-bash
-Copy
-Edit
+```
 echo $HOME
 export PATH=$PATH:/new/path
+```
 3. Positional Parameters
 These are special variables that hold arguments passed to a script.
 
 Example:
-
-bash
-Copy
-Edit
+```
 ./script.sh arg1 arg2
 Inside the script:
 
