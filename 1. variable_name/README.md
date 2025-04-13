@@ -82,9 +82,10 @@ Invalid Variable name
 2. first-three-letter="ABC"
 3. first@three@letter="ABC"
 
-Summary
-=====================
+## Summary
+```
 VARIABLE_NAME="value"
 $VARIABLE_NAME
 ${VARIABLE_NAME}
 VARIABLE_NAME=$(command)  # Output of an command to Assign
+```
