@@ -1,4 +1,4 @@
-#Variable
+# Variable
 
 * A variable in a shell script is a named storage location used to hold a value, such as a string, number, or the output of a command.
 
