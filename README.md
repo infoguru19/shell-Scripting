@@ -1,4 +1,4 @@
-# shell-Scripting
+## shell-Scripting
 
 1. A script is a commandline argument that contain series of commands.
 2. Shell script is to automate repeated tasks.
