@@ -16,6 +16,8 @@ jobs:
         run: touch hello.txt
   Write:
     runs-on: ubuntu-latest
+    needs: Create
+    
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
@@ -25,6 +27,7 @@ jobs:
           cat hello.txt
   View:
     runs-on: ubuntu-latest
+    needs: Write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
